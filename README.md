@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm Makvana Smitraj</h1>
-<h3 align="center">🚀 Full-Stack Developer | ⚡ MERN Stack | 🤖 AI Learner | 🌍 Building Impactful Apps</h3>
+<h1 align="center">🙏 Namaste, I'm Makvana Smitraj 🙏</h1>
+
+<h3 align="center">
+🚀 Full-Stack Developer | ⚡ MERN Stack | 🤖 AI Learner | 🌍 Building Impactful Apps
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smitraj24&label=Profile%20views&color=0e75b6&style=flat" alt="smitraj24" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Backend+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smitraj24&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://komarev.com/ghpvc/?username=Smitraj24&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -45,36 +50,22 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🏆 GitHub Achievements  
 
-<p align="left">
-<a href="https://www.linkedin.com/in/smitrajmakvana" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Smitraj24&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🛠️ Languages and Tools  
+## 🛠️ Tech Stack  
 
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
-<a href="https://render.com/" target="_blank"><img src="https://skillicons.dev/icons?i=render" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,bootstrap,css,vite,vercel,render,git,github" />
+</p>
+
+<p align="center">
+⚙️ JWT | EJS | Nodemon | Radix UI
 </p>
 
 ---
@@ -82,12 +73,33 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitraj24&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitraj24&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smitraj24&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smitraj24&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitraj24&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smitraj24&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smitraj24&theme=react-dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/smitrajmakvana">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:smitrajsinhmakvana@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 ---
