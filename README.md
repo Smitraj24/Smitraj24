@@ -10,19 +10,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smitraj24&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🚀 About Me  
 
-- 🔭 Working on **Super Admin Panel**  
-- 🌱 Learning **Next.js, Advanced Backend, AI (RAG Systems)**  
-- 👯 Open to collaborate on **MERN Projects**  
-- 🤝 Need help with **AI Integration Projects**  
-- 💬 Ask me about **MERN, APIs, Authentication**  
+- 💼 Full-Stack Developer Intern at **Krishang Technolab**  
+- 🔭 Currently building **Super Admin Panel (RBAC System)**  
+- 🌱 Learning **Next.js, Advanced Backend & AI (RAG Systems)**  
+- 🧠 Strong in **APIs, Authentication & Real-world Projects**  
+- 👯 Open to collaborate on **MERN + AI Projects**  
 - 📫 Reach me at **smitrajsinhmakvana@gmail.com**  
 
 ---
@@ -51,7 +45,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-<p>JWT • EJS • Nodemon</p>
+<p>JWT • REST APIs • EJS • Nodemon</p>
 
 ### 🗄️ Database  
 <p>
@@ -62,11 +56,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,render,npm" />
 </p>
-<p>Radix UI</p>
+<p>Radix UI • Postman</p>
 
 ---
 
-## 📊 GitHub Status  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smitraj24&show_icons=true&theme=radical" />
@@ -79,7 +73,7 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Activity  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smitraj24&theme=react-dark" />
@@ -91,25 +85,25 @@
 
 ### 🚀 Super Admin Panel  
 🔗 https://github.com/Smitraj24/Super_Admin_Panel  
-- Role-based dashboard  
-- Authentication & API integration  
-- Admin-level control system  
+✔ Role-Based Access Control (RBAC)  
+✔ Secure Authentication System  
+✔ Admin Dashboard with Analytics  
 
 ---
 
 ### 📦 Inventory Management System (IMS)  
 🔗 https://github.com/Smitraj24  
-- MERN stack project  
-- Product & order management  
-- Real-world business logic  
+✔ Product & Order Management  
+✔ User Dashboard & CRUD Operations  
+✔ Real-world Business Logic  
 
 ---
 
 ### 🌍 Wanderlust Project  
 🔗 https://github.com/Smitraj24  
-- Listing platform  
-- Passport.js authentication  
-- CRUD operations  
+✔ Authentication using Passport.js  
+✔ Full CRUD Operations  
+✔ Secure User Data Handling (bcrypt)  
 
 ---
 
@@ -130,9 +124,10 @@
 ## 📄 Experience  
 
 💼 **Full-Stack Developer Intern — Krishang Technolab**  
-- Built real-world MERN applications  
-- Developed scalable APIs  
-- Worked on authentication & deployment  
+- Developed scalable **MERN applications**  
+- Built and integrated **REST APIs**  
+- Implemented **authentication & authorization systems**  
+- Worked on **deployment (Render/Vercel)**  
 
 ---
 
@@ -146,7 +141,7 @@
 
 ## ⚡ Fun Fact  
 
-😄 Coding + Chai = Perfect Productivity ☕💻  
+😄 Debugging is like being a detective in a crime movie where you are also the criminal 🕵️‍♂️💻  
 
 ---
 
