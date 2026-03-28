@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Backend+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Backend+Learner;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
@@ -18,39 +18,16 @@
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on  
-  🚀 [Super Admin Panel](https://github.com/Smitraj24/Super_Admin_Panel)
-
-- 🌱 I’m currently learning  
-  📚 **Next.js, Advanced Backend Development, AI (RAG Systems), API Optimization**
-
-- 👯 I’m looking to collaborate on  
-  🤝 **Inventory Management System (MERN Project)**  
-
-- 🤝 I’m looking for help with  
-  🤖 **AI Integration (RAG-based Applications)**  
-
-- 👨‍💻 All of my projects are available at  
-  🌐 https://github.com/Smitraj24  
-
-- 💬 Ask me about  
-  💻 **MERN Stack, React, Node.js, Authentication, CRUD Apps**  
-
-- 📫 How to reach me  
-  📧 **smitrajsinhmakvana@gmail.com**  
-
-- 📄 Know about my experiences  
-  💼 **Full-Stack Developer Intern at Krishang Technolab**  
-  - Worked on real-world MERN stack applications  
-  - Built scalable backend APIs and dynamic frontend UI  
-  - Hands-on experience with authentication, CRUD & deployment  
-
-- ⚡ Fun fact  
-  😄 *Coding + chai = perfect productivity*  
+- 🔭 Working on **Super Admin Panel**  
+- 🌱 Learning **Next.js, Advanced Backend, AI (RAG Systems)**  
+- 👯 Open to collaborate on **MERN Projects**  
+- 🤝 Need help with **AI Integration Projects**  
+- 💬 Ask me about **MERN, APIs, Authentication**  
+- 📫 Reach me at **smitrajsinhmakvana@gmail.com**  
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Smitraj24&theme=algolia&no-frame=true&row=1&column=7" />
@@ -60,17 +37,36 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,bootstrap,css,vite,vercel,render,git,github" />
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
 </p>
 
-<p align="center">
-⚙️ JWT | EJS | Nodemon | Radix UI
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,css" />
 </p>
+
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+<p>JWT • EJS • Nodemon</p>
+
+### 🗄️ Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
+
+### 🚀 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,npm" />
+</p>
+<p>Radix UI</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Status  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smitraj24&show_icons=true&theme=radical" />
@@ -91,16 +87,52 @@
 
 ---
 
+## 📌 Featured Projects  
+
+### 🚀 Super Admin Panel  
+🔗 https://github.com/Smitraj24/Super_Admin_Panel  
+- Role-based dashboard  
+- Authentication & API integration  
+- Admin-level control system  
+
+---
+
+### 📦 Inventory Management System (IMS)  
+🔗 https://github.com/Smitraj24  
+- MERN stack project  
+- Product & order management  
+- Real-world business logic  
+
+---
+
+### 🌍 Wanderlust Project  
+🔗 https://github.com/Smitraj24  
+- Listing platform  
+- Passport.js authentication  
+- CRUD operations  
+
+---
+
 ## 🌐 Connect With Me  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/smitrajmakvana">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:smitrajsinhmakvana@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
+
+---
+
+## 📄 Experience  
+
+💼 **Full-Stack Developer Intern — Krishang Technolab**  
+- Built real-world MERN applications  
+- Developed scalable APIs  
+- Worked on authentication & deployment  
 
 ---
 
@@ -109,6 +141,12 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+## ⚡ Fun Fact  
+
+😄 Coding + Chai = Perfect Productivity ☕💻  
 
 ---
 
