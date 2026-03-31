@@ -236,15 +236,6 @@ Full-stack **travel listing platform** with Passport.js auth, bcrypt hashing and
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<!-- Snake animation (enable via GitHub Actions — see note below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Smitraj24/Smitraj24/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Smitraj24/Smitraj24/output/github-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Smitraj24/Smitraj24/output/github-snake.svg"/>
-</picture>
-
 </div>
 
 ---
