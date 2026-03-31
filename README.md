@@ -21,7 +21,7 @@
 const smitraj = {
   name     : "Makvana Smitraj",
   role     : "Full-Stack Developer Intern @ Krishang Technolab",
-  location : "Surat, Gujarat, India 🇮🇳",
+  location : "Ahmedabad, Gujarat, India 🇮🇳",
   building : "Super Admin Panel (RBAC System)",
   learning : ["Next.js 14", "Advanced Backend", "AI & RAG Systems"],
   openTo   : "MERN + AI Projects · Open Source · Real-world Apps",
@@ -77,18 +77,6 @@ const smitraj = {
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
-
-## 📊 Skill Proficiency
-
-```
-JavaScript / TypeScript  ████████████████████░░░  88%
-REST APIs / Auth         ███████████████████░░░░  85%
-React / Next.js          ██████████████████░░░░░  82%
-Node.js / Express        ████████████████░░░░░░░  80%
-MongoDB / MySQL          ███████████████░░░░░░░░  75%
-```
 
 ---
 
