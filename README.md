@@ -37,7 +37,7 @@ const smitraj = {
   name      : "Makvana Smitraj",
   role      : "Full-Stack Developer Intern",
   company   : "Krishang Technolab 🏢",
-  location  : "Surat, Gujarat, India 🇮🇳",
+  location  : "Ahmedabad, Gujarat, India 🇮🇳",
   building  : "Super Admin Panel (RBAC System) 🔐",
   learning  : ["Next.js 14", "Advanced Backend", "AI & RAG Systems"],
   openTo    : "MERN + AI · Open Source · Real-world Apps",
@@ -95,22 +95,6 @@ const smitraj = {
 
 ---
 
-## 📊 Skills at a Glance
-
-<div align="center">
-
-| Skill | Level | Bar |
-|-------|-------|-----|
-| JavaScript / TypeScript | ⭐⭐⭐⭐⭐ | `████████████████████░░░` 88% |
-| REST APIs / Auth | ⭐⭐⭐⭐⭐ | `███████████████████░░░░` 85% |
-| React / Next.js | ⭐⭐⭐⭐½ | `██████████████████░░░░░` 82% |
-| Node.js / Express | ⭐⭐⭐⭐½ | `████████████████░░░░░░░` 80% |
-| MongoDB / MySQL | ⭐⭐⭐⭐ | `███████████████░░░░░░░░` 75% |
-
-</div>
-
----
-
 ## 💼 Experience
 
 <div align="center">
@@ -118,7 +102,7 @@ const smitraj = {
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  🏢  Full-Stack Developer Intern  ·  Krishang Technolab      ║
-║  🟢  Active Internship            ·  Surat, Gujarat          ║
+║  🟢  Active Internship            ·  Ahmedabad, Gujarat      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -169,26 +153,6 @@ A full-featured **RBAC system** with secure auth and real-time analytics dashboa
 </td>
 <td width="50%" valign="top">
 
-### 📦 Inventory Management System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smitraj24)
-
-End-to-end **inventory solution** with product & order management, user dashboards, and real-world business logic.
-
-**Key Features:**
-- ✅ Product & Order Management
-- ✅ User Dashboard with CRUD
-- ✅ Real-world Business Logic
-- ✅ Responsive UI
-
-![MERN](https://img.shields.io/badge/MERN-Stack-4f8ef7?style=flat-square)
-![REST](https://img.shields.io/badge/REST-APIs-2dd4bf?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌍 Wanderlust
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smitraj24)
 
@@ -205,24 +169,7 @@ Full-stack **travel listing platform** with Passport.js auth, bcrypt hashing and
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
 
-### 🔭 Coming Soon...
-<br/>
-
-*Currently building something exciting!*
-
-**Focus Areas:**
-- 🤖 AI-powered features with RAG
-- ⚡ Next.js 14 App Router
-- 🔐 Advanced Auth patterns
-- 🚀 Production-ready architecture
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![AI](https://img.shields.io/badge/AI-RAG-7c5cfc?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
 </tr>
 </table>
 
