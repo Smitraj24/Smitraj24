@@ -148,49 +148,6 @@ Full-stack **travel listing platform** with Passport.js auth, bcrypt hashing and
 
 ---
 
-## 🌱 Currently Learning
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="16%">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/>
-<sub><b>Next.js 14</b></sub><br/>
-<sub>App Router · RSC</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
-<sub><b>DevOps</b></sub><br/>
-<sub>Docker · CI/CD</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/>
-<sub><b>Adv. Backend</b></sub><br/>
-<sub>Queues · Cache</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🤖-AI/RAG-7c5cfc?style=flat-square" width="80"/><br/><br/>
-<sub><b>RAG Systems</b></sub><br/>
-<sub>LangChain · Vectors</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/>
-<sub><b>System Design</b></sub><br/>
-<sub>Scale · APIs</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
-<sub><b>GitHub Actions</b></sub><br/>
-<sub>CI/CD Pipelines</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
