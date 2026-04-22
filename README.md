@@ -211,16 +211,6 @@ Full-stack **travel listing platform** with Passport.js auth, bcrypt hashing and
 
 ---
 
-## 🧠 Daily Motivation
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 <div align="center">
@@ -241,12 +231,7 @@ Full-stack **travel listing platform** with Passport.js auth, bcrypt hashing and
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 **⭐ Star my repos if you find them useful!**
 
