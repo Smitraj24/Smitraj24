@@ -1,28 +1,4 @@
-<div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Makvana%20Smitraj&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Learner&descAlignY=58&descSize=18&descColor=a8b4d8" width="100%"/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4F8EF7&center=true&vCenter=true&multiline=false&repeat=true&width=640&height=60&lines=%F0%9F%9A%80+Full-Stack+Developer;%E2%9A%A1+MERN+Stack+Engineer;%F0%9F%A4%96+AI+%26+Backend+Learner;%F0%9F%8C%8D+Building+Real-World+Apps;%F0%9F%94%90+Auth+%26+RBAC+Expert" alt="Typing SVG"/>
-
-<br/>
-
-<!-- Status badges row -->
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Collaboration-2dd4bf?style=for-the-badge&labelColor=0f1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Surat%2C%20India-7c5cfc?style=for-the-badge&labelColor=0f1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Role-Intern%20%40%20Krishang%20Technolab-f59e0b?style=for-the-badge&labelColor=0f1117"/>
-
-<br/><br/>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=Smitraj24&style=for-the-badge&color=4f8ef7&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Smitraj24?style=for-the-badge&color=7c5cfc&labelColor=0f1117&label=FOLLOWERS"/>
-
-</div>
 
 ---
 
